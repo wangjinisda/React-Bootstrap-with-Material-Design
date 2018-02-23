@@ -13,6 +13,7 @@
     "outy": "^0.1.2",
     "react": "^15.6.1",
     "react-dom": "^15.6.1",
+    "react-metismenu": "^1.4.0-alpha.2",
     "react-motion-ui-pack": "^0.10.3",
     "react-popper": "^0.7.2",
     "react-router-dom": "^4.2.0",
